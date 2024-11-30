@@ -14,7 +14,7 @@ module.exports = {
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ? 'true' : process.env.AUTO_READ_STATUS, //TRUE OR FALSE
     PRESENCE: process.env.PRESENCE === undefined ? `online` : process.env.PRESENCE, //AVAILABLE, COMPOSING, RECORDING OR UNAVAILABLE
     ALIVE: process.env.ALIVE === undefined ? `default` : process.env.ALIVE, //YOUR ALIVE MESSAGE OR SET IT TO defeault
-    OWNER: process.env.OWNER === undefined ? `94743877156` : process.env.OWNER, //BOTS OWNER NUMBER
+    OWNER: process.env.OWNER === undefined ? `94726884134` : process.env.OWNER, //BOTS OWNER NUMBER
     PREFIX: process.env.PREFIX === undefined ? '.' : process.env.PREFIX, //BOTS PREFIX 
     MAX_SIZE: process.env.MAX_SIZE === undefined ? '200' : process.env.MAX_SIZE, //MAX UPLOAD SIZE
     LOGO: process.env.LOGO === undefined ? `https://i.postimg.cc/JzHb8pfV/IMG-20241124-WA0139.jpg` : process.env.LOGO, //ALIVE IMAGE URL
