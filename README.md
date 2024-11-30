@@ -103,7 +103,7 @@ module.exports = {
 1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly on Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/Tohidkhan6332/TOHID-KHAN/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com//ayooh-me/Pink-Venom-MD' target="_blank">
       <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-FF10F0?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
@@ -111,7 +111,7 @@ module.exports = {
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
 3. Deploy your app using the button below:
    <br>
-   <a href='https://github.com/Tohidkhan6332/TOHID-KHAN' target="_blank">
+   <a href='https://github.com//ayooh-me/Pink-Venom-MD' target="_blank">
       <img alt='Deploy on Koyeb' src='https://img.shields.io/badge/-DEPLOY-FF10F0?style=for-the-badge&logo=koyeb&logoColor=white'/>
    </a>
 
@@ -119,7 +119,7 @@ module.exports = {
 1. [Create an Account on Railway](https://railway.app/login) if you don’t have one.
 2. Click the button below to deploy using Railway:
    <br>
-   <a href='https://railway.app/template/q20OfH?referralCode=b9IKyc' target="_blank">
+   <a href='https://railway.app/' target="_blank">
       <img alt='Deploy on Railway' src='https://img.shields.io/badge/-DEPLOY-FF10F0?style=for-the-badge&logo=railway&logoColor=white'/>
    </a>
 
